@@ -258,7 +258,7 @@
                 <activeByDefault>true</activeByDefault>
                 <property>
                     <name>requires-postgres</name>
-                    <value>!disabled</value>
+                    <value>disabled</value>
                 </property>
             </activation>
             <modules>
@@ -290,7 +290,7 @@
                 <activeByDefault>true</activeByDefault>
                 <property>
                     <name>requires-full</name>
-                    <value>!disabled</value>
+                    <value>disabled</value>
                 </property>
             </activation>
             <modules>
@@ -307,7 +307,7 @@
                 <activeByDefault>true</activeByDefault>
                 <property>
                     <name>requires-xts</name>
-                    <value>!disabled</value>
+                    <value>disabled</value>
                 </property>
             </activation>
             <modules>
